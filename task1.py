@@ -15,7 +15,7 @@ print(message)
 # --- Snippet 2 ---
 # This should display a student's name
 student_name = "Jordan"
-print(f"The student is {studentname}")
+print(f"The student is {student_name}")
 
 # --- Snippet 3 ---
 # This should display a favorite color
@@ -45,7 +45,7 @@ print(f"{greeting}")
 # --- Snippet 8 ---
 # This should display a temperature
 temperature = 72
-print(f"The temperature is {temperture} degrees")
+print(f"The temperature is {temperature} degrees")
 
 # --- Snippet 9 ---
 # This should display a team name
@@ -64,7 +64,7 @@ print(f"My favorite animal is {animal}")
 
 # --- Snippet 12 ---
 # This should display a school name
-school name = "Central High"
+school_name = "Central High"
 print(f"I attend {school_name}")
 
 # --- Snippet 13 ---
@@ -100,7 +100,7 @@ print(f"Today is {third_day}")
 # --- Snippet 19 ---
 # This should display a state
 home_state = "Texas"
-prnt(f"I live in {home_state}")
+print(f"I live in {home_state}")
 
 # --- Snippet 20 ---
 # This should display a season
